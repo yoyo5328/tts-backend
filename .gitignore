@@ -1,1 +1,10 @@
 .env
+echo ".env" >> .gitignore
+echo "ta_cle_api.json" >> .gitignore
+git add .gitignore
+git commit -m "Ajoute .env et JSON à .gitignore"
+git push
+ta_cle_api.json
+ta_cle_api.json
+ta_cle_api.json
+ta_cle_api.json
